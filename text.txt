@@ -1,3 +1,3 @@
-this is my w commit!
+this is my first commit!
 
 commit #2
